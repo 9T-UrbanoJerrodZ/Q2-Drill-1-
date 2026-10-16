@@ -1,0 +1,9 @@
+.row{
+    gap: 5px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-image:url(https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/rockcms/2025-07/250730-luka-doncic-mb-1424-fa4a00.jpg);
+}
